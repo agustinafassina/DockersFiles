@@ -1,0 +1,7 @@
+./bin
+./bin
+./obj
+netcore3.1-without-vulnerabilities/bin
+netcore3.1-without-vulnerabilities/obj
+.net10-app/obj
+.net10-app/bin

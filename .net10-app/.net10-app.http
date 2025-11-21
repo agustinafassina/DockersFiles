@@ -1,0 +1,6 @@
+@_net10_HostAddress = http://localhost:5193
+
+GET {{_net10_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
